@@ -1,1 +1,1 @@
-# Resturant-Website-Faizan
+# Restaurants-Website-Faizan
